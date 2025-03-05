@@ -13,8 +13,8 @@ Highly skilled Senior Frontend Developer with 10+ years of experience designing 
   <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/watc.png" width="100%" />
-        <p align="center"><a href="https://watc.ee/">WACT: Landing page design</a></p>
+        <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/rbr.png" width="100%" />
+        <p align="center"><a href="https://demo-wallet.rbrnow.com/">RBR: React</a></p>
       </p>
     </td>
     <td>
