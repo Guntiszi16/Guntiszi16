@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/react.jpg" width="100%" />
+  <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/react.png" width="100%" />
   <br><br>
   <h1>Senior React | React Native | Next | Vue | AI Developer</h1>
   
