@@ -1,6 +1,3 @@
-[<img src="https://komarev.com/ghpvc/?username=Guntiszi16" alt="Guntiszi16's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
-
-<br/>
 <div align="center" >
   <img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/>
   <br><br>
@@ -55,13 +52,13 @@ Highly skilled Senior Frontend Developer with 10+ years of experience designing 
  <tr>
     <td>
     <p align="center">
-      <img src="https://github.com/Guntiszi16/Guntiszi16/blob/main/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
+      <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
       <p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
     </p>
   </td>
   <td>
     <p align="center">
-      <img src="https://github.com/Guntiszi16/Guntiszi16/blob/main/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
+      <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
  			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
     </p>
   </td>
@@ -69,13 +66,13 @@ Highly skilled Senior Frontend Developer with 10+ years of experience designing 
  <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/Guntiszi16/Guntiszi16/blob/main/images/watc.png" width="100%" />
+        <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/watc.png" width="100%" />
         <p align="center"><a href="https://watc.ee/">WACT: Landing page design</a></p>
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="https://github.com/Guntiszi16/Guntiszi16/blob/main/images/payrexx.png" width="100%" />
+        <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/payrexx.png" width="100%" />
         <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
       </p>
     </td>
