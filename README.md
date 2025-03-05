@@ -14,13 +14,13 @@ Highly skilled Senior Frontend Developer with 10+ years of experience designing 
     <td>
       <p align="center">
         <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/rbr.png" width="100%" />
-        <p align="center"><a href="https://demo-wallet.rbrnow.com/">RBR: React</a></p>
+        <p align="center"><a href="https://demo-wallet.rbrnow.com/">RBR: React.js</a></p>
       </p>
     </td>
     <td>
       <p align="center">
         <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/payrexx.png" width="100%" />
-        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js project</a></p>
+        <p align="center"><a href="https://payrexx.com/en/">Payrexx: Nuxt.js</a></p>
       </p>
     </td>
   </tr>
@@ -28,13 +28,13 @@ Highly skilled Senior Frontend Developer with 10+ years of experience designing 
     <td>
     <p align="center">
       <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/FqkzPgzaEAAzTph.jpeg" width="100%" />
-      <p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
+      <p align="center"><a href="https://123helpapp.com/">123 Help App: React Native</a></p>
     </p>
   </td>
   <td>
     <p align="center">
       <img src="https://github.com/Guntiszi16/Guntiszi16/blob/master/images/FqkzPg0aYAMTxNx.jpeg" width="100%" />
- 			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
+ 			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: React Native</a><p> 
     </p>
   </td>
  </tr> 
